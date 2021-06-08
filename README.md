@@ -29,7 +29,7 @@ My name is Abdelkader Mohielddine BABAGHAYOU (confused? u can call me Kadi), im 
   <img title="Flutter" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50" height="50"/>
  
  </P>
-<hr>
+
 
 <h2> My Scocial media :</h2>
     <p float="center">
