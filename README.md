@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Abdelkader Mohielddine BABAGHAYOU (confused? u can call me Kadi), im Junior Software Engineer.
+My name is Abdelkader Mohielddine BABAGHAYOU (confused? u can call me Kadi), im a Junior Software Engineer.
 <h3>What to know about me :</h3>
 <p>
 -🎓 I have a bachlor degree in "Computer Science an Information systems" and now still studying on Ammar thelidji University to get my "Networking and CyberSecurity" Master Degree.<br>
