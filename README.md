@@ -11,7 +11,7 @@ My name is Abdelkader Mohielddine BABAGHAYOU (confused? u can call me Kadi), im 
 </p>
 <h3>Skills i earned through past few years :</h3>
 <p align="left">
-  <img title="Flutter" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="50" height="50"/>
+  <img title="Flutter" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50" height="50"/>
   <img title="Flutter" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50" height="50"/>
   <img title="Flutter" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="50" height="50"/>
   <img title="Flutter" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" width="50" height="50"/>
@@ -27,5 +27,6 @@ My name is Abdelkader Mohielddine BABAGHAYOU (confused? u can call me Kadi), im 
   <img title="Flutter" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50"/>
   <img title="Flutter" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50" height="50"/>
   <img title="Flutter" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50" height="50"/>
-  
+ 
  </P>
+<hr>
