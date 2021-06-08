@@ -11,22 +11,21 @@ My name is Abdelkader Mohielddine BABAGHAYOU (confused? u can call me Kadi), im 
 </p>
 <h3>Skills i earned through past few years :</h3>
 <p align="left">
-  <img title="Flutter" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50" height="50"/>
-  <img title="Flutter" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50" height="50"/>
-  <img title="Flutter" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="50" height="50"/>
-  <img title="Flutter" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" width="50" height="50"/>
-  <img title="Flutter" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" width="50" height="50"/>
-  <img title="Flutter" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50" height="50"/>
+  <img title="java" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50" height="50"/>
+  <img title="html5" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50" height="50"/>
+  <img title="bootstrap" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="50" height="50"/>
+  <img title="javaScript" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" width="50" height="50"/>
+  <img title="python" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" width="50" height="50"/>
+  <img title="dart" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50" height="50"/>
   <img title="Flutter" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="50" height="50"/>
-  <img title="Flutter" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50" height="50"/>
-  <img title="Flutter" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="90" height="50"/>
-  <img title="Flutter" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/>
-  <img title="Flutter" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50"/>
-  <img title="Flutter" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50" height="50"/>
-  <img title="Flutter" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50" height="50"/>
-  <img title="Flutter" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50"/>
-  <img title="Flutter" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50" height="50"/>
-  <img title="Flutter" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50" height="50"/>
+  <img title="sqlLite" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50" height="50"/>
+  <img title="mysql" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="90" height="50"/>
+  <img title="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/>
+  <img title="reactjs" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50"/>
+  <img title="nodejs" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50" height="50"/>
+  <img title="linux" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50" height="50"/>
+  <img title="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50"/>
+  <img title="mongodb" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50" height="50"/>
  
  </P>
 
