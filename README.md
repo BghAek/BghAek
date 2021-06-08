@@ -36,6 +36,6 @@ My name is Abdelkader Mohielddine BABAGHAYOU (confused? u can call me Kadi), im 
       <a href="abdelkaderbabaghayou@gmail.com"><img alt="Gmail"  title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"   width="100" height="50" /></a>
        <a href="https://www.instagram.com/aek_babaghayou/"><img title="Instgrame" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"   width="100" height="50" /></a>
       <a href="https://discord.com/users/DigoXin#4241"><img title="Discord" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg"   width="100" height="50" /></a>
-      <a href="https://twitter.com/D1goxin"><img title="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"   width="100" height="50" /></a>
+      <a href="https://twitter.com/BghAek"><img title="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"   width="100" height="50" /></a>
       <a href="https://www.facebook.com/Aekdigoxin/"><img title="Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg"   width="100" height="50" /></a>
     </p>
