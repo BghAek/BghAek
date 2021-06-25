@@ -33,7 +33,7 @@ My name is Abdelkader Mohielddine BABAGHAYOU (confused? u can call me Kadi), im 
 <h2> My Scocial media :</h2>
     <p float="center">
        <a href="https://www.linkedin.com/in/abdelkader-babaghayou-250979211/"><img alt="Linkedin profile"  title="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"   width="100" height="50" /></a>
-      <a href="abdelkaderbabaghayou@gmail.com"><img alt="Gmail"  title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"   width="100" height="50" /></a>
+      <a href="ababaghayou@gmail.com"><img alt="Gmail"  title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"   width="100" height="50" /></a>
        <a href="https://www.instagram.com/aek_bgh/"><img title="Instgrame" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"   width="100" height="50" /></a>
       <a href="https://discord.com/users/DigoXin#4241"><img title="Discord" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg"   width="100" height="50" /></a>
       <a href="https://twitter.com/BghAek"><img title="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"   width="100" height="50" /></a>
