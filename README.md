@@ -3,10 +3,10 @@
 My name is Abdelkader M BABAGHAYOU (confused? you can call me Kadi), im a Software Engineer specialized in web development.
 <h3>What to know about me :</h3>
 <p>
--🎓 I have a bachlor degree in "Computer Science and Informations systems" 
--🎓 I have a Master degree in "Networks and distributed systems"
-- 🔭 I'm a full stack web developer
-- 🌱 I'm currently learning and working with Angular/React , Asp.net
+-🎓 I have a bachlor degree in "Computer Science and Informations systems" <span></span>
+-🎓 I have a Master degree in "Networks and distributed systems" <span></span>
+- 🔭 I'm a full stack web developer <span></span>
+- 🌱 I'm currently learning and working with Angular/React , Asp.net <span></span>
 </p>
 <h3>Skills i earned through past few years :</h3>
 <p align="left">
@@ -16,7 +16,7 @@ My name is Abdelkader M BABAGHAYOU (confused? you can call me Kadi), im a Softwa
   <img title="mysql" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="90" height="50"/>
   <img title="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/>
   <img title="linux" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50" height="50"/>
-  <img title="dotnetframework" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg" width="50" height="50"/>
+  <img title="dotnetframework" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="50" height="50"/>
  
  </P>
 
