@@ -17,7 +17,8 @@ My name is Abdelkader M BABAGHAYOU (confused? you can call me Kadi), im a Softwa
   <img title="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/>
   <img title="linux" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50" height="50"/>
   <img title="dotnetframework" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="50" height="50"/>
- 
+  <img title="Angular" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="50" height="50"/>
+   <img title="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50"/>
  </P>
 
 
