@@ -16,7 +16,7 @@ My name is Abdelkader M BABAGHAYOU (confused? you can call me Kadi), im a Softwa
   <img title="mysql" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="90" height="50"/>
   <img title="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/>
   <img title="linux" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50" height="50"/>
-  <img title="dotnetframework" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50" height="50"/>
+  <img title="dotnetframework" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" width="50" height="50"/>
  
  </P>
 
