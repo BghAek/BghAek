@@ -3,10 +3,10 @@
 My name is Abdelkader M BABAGHAYOU (confused? you can call me Kadi), im a Software Engineer specialized in web development.
 <h3>What to know about me :</h3>
 <p>
--🎓 I have a bachlor degree in "Computer Science and Informations systems" <span></span>
--🎓 I have a Master degree in "Networks and distributed systems" <span></span>
+-🎓 I have a bachlor degree in "Computer Science and Informations systems" 
+-🎓 I have a Master degree in "Networks and distributed systems" 
 - 🔭 I'm a full stack web developer <span></span>
-- 🌱 I'm currently learning and working with Angular/React , Asp.net <span></span>
+- 🌱 I'm currently learning and working with Angular/React , Asp.net 
 </p>
 <h3>Skills i earned through past few years :</h3>
 <p align="left">
