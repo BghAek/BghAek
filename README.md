@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Abdelkader M BABAGHAYOU (confused? you can call me Kadi), im a Software Engineer specialized in web development.
+My name is Abdelkader M BABAGHAYOU (or u can call me Kadi), im a Software Engineer specialized in web development.
 <h3>What to know about me :</h3>
 <p>
 -🎓 I have a bachlor degree in "Computer Science and Informations systems" 
