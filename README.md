@@ -12,6 +12,7 @@ My name is Abdelkader M BABAGHAYOU (Or Kadi), im a Fullstack Software Developper
 <p align="left">
 
   <img title="html5" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50" height="50"/>
+  <img title="css3" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="50" height="50"/>
   <img title="javaScript" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50" height="50"/>
   <img title="NodeJs" src="https://upload.vectorlogo.zone/logos/nodejs/images/eca9ff97-5734-46c4-b8a1-621819eaeaa9.svg" width="50" height="50"/>
   <img title="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50"/>
@@ -19,13 +20,13 @@ My name is Abdelkader M BABAGHAYOU (Or Kadi), im a Fullstack Software Developper
   <img title="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/>
   <img title="linux" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50" height="50"/>
   <img title="dotnetframework" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="50" height="50"/>
-* </P>
+ </P>
 
 
 <h2> Contact me  :</h2>
     <p float="center">
-       <a href="https://www.linkedin.com/in/abdelkader-babaghayou-250979211/"><img alt="Linkedin profile"  title="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"   width="100" height="50" /></a>
-      <a href="ababaghayou@gmail.com"><img alt="Gmail"  title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"   width="100" height="50" /></a>
-       <a href="https://www.instagram.com/aek_bgh/"><img title="Instgrame" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"   width="100" height="50" /></a>
+       <a href="https://www.linkedin.com/in/aekbgh/"><img alt="Linkedin profile"  title="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"   width="100" height="50" /></a>
+      <a href="abdelkaderbabaghayou@gmail.com"><img alt="Gmail"  title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"   width="100" height="50" /></a>
+       <a href="https://www.instagram.com/aekbgh/"><img title="Instgrame" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"   width="100" height="50" /></a>
       <a href="https://www.facebook.com/Aekdigoxin/"><img title="Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg"   width="100" height="50" /></a>
     </p>
