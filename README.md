@@ -12,8 +12,8 @@ My name is Abdelkader M BABAGHAYOU (Or Kadi), im a Fullstack Software Developper
 <p align="left">
 
   <img title="html5" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50" height="50"/>
-  <img title="javaScript" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" width="50" height="50"/>
-  <img title="NodeJs" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" width="50" height="50"/>
+  <img title="javaScript" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50" height="50"/>
+  <img title="NodeJs" src="https://upload.vectorlogo.zone/logos/nodejs/images/eca9ff97-5734-46c4-b8a1-621819eaeaa9.svg" width="50" height="50"/>
   <img title="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50"/>
   <img title="mysql" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="90" height="50"/>
   <img title="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/>
