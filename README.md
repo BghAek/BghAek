@@ -13,9 +13,13 @@ My name is Abdelkader M BABAGHAYOU (Or Kadi), im a Fullstack Software Developer.
 
   <img title="html5" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50" height="50"/>
   <img title="css3" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" width="50" height="50"/>
+  <img title="tailwind" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/>
   <img title="NodeJs" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50" height="50"/>
   <img title="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50"/>
+  <img title="expressjs" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" width="50" height="50"/>
+  <img title="nestjs" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="50" height="50"/>
   <img title="mysql" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="90" height="50"/>
+  <img title="postgresql" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="90" height="50"/>
   <img title="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/>
   <img title="linux" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50" height="50"/>
   <img title="dotnetframework" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="50" height="50"/>
