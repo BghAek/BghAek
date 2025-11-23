@@ -23,7 +23,6 @@ My name is Abdelkader M BABAGHAYOU (Or Kadi), im a Fullstack Software Developer.
   <img title="docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50" height="50"/>
   <img title="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/>
   <img title="linux" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50" height="50"/>
-  <img title="dotnetframework" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="50" height="50"/>
  </P>
 
 
