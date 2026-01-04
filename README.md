@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-My name is Abdelkader M BABAGHAYOU (Or Kadi), im a Fullstack Software Developer.
+My name is Abdelkader M BABAGHAYOU (Or Kadi), im a Fullstack Software Engineer.
 <h3>What to know about me :</h3>
 <p>
 -🎓 I have a Master degree in "Networks and distributed systems" <br>
 -🎓 I have a bachlor degree in "Computer Science and Informations systems" <br>
--🔭 I work as a fullstack Developer in Algeria Gulf Bank (using .Net) <span></span> <br>
--🌱 I'm currently learning and working in my free time with Node.js, React, Express <br>
+-🌱 I'm currently a freelancer working with technologies like Node.js, React, Express, SQL, NoSQL, tailwindCSS, Prisma... <br>
 </p>
 <h3>Skills i earned through past few years :</h3>
 <p align="left">
