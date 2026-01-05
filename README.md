@@ -7,7 +7,7 @@ My name is Abdelkader M BABAGHAYOU (Or Kadi), im a Fullstack Software Engineer.
 -🎓 I have a bachlor degree in "Computer Science and Informations systems" <br>
 -🌱 I'm currently a freelancer working with technologies like Node.js, React, Express, SQL, NoSQL, tailwindCSS, Prisma... <br>
 </p>
-<h3>Skills i earned through past few years :</h3>
+<h3>Skills :</h3>
 <p align="left">
 
   <img title="html5" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50" height="50"/>
