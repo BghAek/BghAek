@@ -14,6 +14,7 @@ My name is Abdelkader M BABAGHAYOU (Or Kadi), im a Fullstack Software Engineer.
   <img title="css3" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" width="50" height="50"/>
   <img title="tailwind" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/>
   <img title="NodeJs" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50" height="50"/>
+  <img title="TypeScript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="50" height="50"/>
   <img title="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50"/>
   <img title="expressjs" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="50" height="50"/>
   <img title="nestjs" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="50" height="50"/>
