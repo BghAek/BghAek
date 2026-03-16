@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Abdelkader M BABAGHAYOU (Or Kadi), im a Fullstack Software Engineer.
+My name is Abdelkader BABAGHAYOU (Or Kadi), im a Fullstack Software Engineer.
 <h3>What to know about me :</h3>
 <p>
 -🎓 I have a Master degree in "Networks and distributed systems" <br>
