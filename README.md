@@ -1,7 +1,6 @@
 # 💫 About Me:
 My name is Abdelkader BABAGHAYOU (Or Kadi), im a Fullstack Software Engineer.<br><br>What to know about me :<br>-🎓 I have a Master degree in "Networks and distributed systems"<br>-🎓 I have a Bachelor degree in "Computer Science and Informations systems"<br>-🌱 I'm currently a freelancer working with technologies like Node.js, Nestjs, React, Express, SQL, NoSQL, tailwindCSS, Prisma...<br><br>
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aekdigoxin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aekbgh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aekbgh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KadiBgh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelkaderbabaghayou@gmail.com) 
 
@@ -18,7 +17,7 @@ My name is Abdelkader BABAGHAYOU (Or Kadi), im a Fullstack Software Engineer.<br
 ![Postgres](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)
 ![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
 ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)
-![Prisma](https://cdn.brandfetch.io/idBBE3_R9e/idI_xi9A1U.svg?c=1dxbfHSJFAPEGdCLU4o5B) 
+![Prisma](https://res.cloudinary.com/dvl3awhnd/image/upload/v1776291667/icons8-prisma-orm-50_royasd.png) 
 ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg) 
 ![Vite](https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg) 
 ![Next.js](https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg)
