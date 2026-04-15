@@ -1,12 +1,6 @@
 <div align="center">
 
-# 💫 Hi there, I'm Abdelkader (Kadi) 👋
-
-### Fullstack Software Engineer
-
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-%233B0764.svg?style=for-the-badge&logo=globe&logoColor=white)](https://abdelkaderbabaghayou.xyz)
-
-</div>
+# 💫 Hi there, I'm Abdelkader (Kadi) Im a Fullstack Software Engineer 👋
 
 ## 👨‍💻 About Me
 
