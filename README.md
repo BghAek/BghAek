@@ -1,9 +1,7 @@
 # 💫 About Me:
 My name is Abdelkader BABAGHAYOU (Or Kadi), im a Fullstack Software Engineer.<br><br>What to know about me :<br>-🎓 I have a Master degree in "Networks and distributed systems"<br>-🎓 I have a Bachelor degree in "Computer Science and Informations systems"<br>-🌱 I'm currently a freelancer working with technologies like Node.js, Nestjs, React, Express, SQL, NoSQL, tailwindCSS, Prisma...<br><br>
-
 ## 🌐 Socials:
 [![Facebook](https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg)](https://facebook.com/Aekdigoxin) [![Instagram](https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg)](https://instagram.com/aekbgh) [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://linkedin.com/in/aekbgh) [![X](https://www.vectorlogo.zone/logos/x/x-icon.svg)](https://x.com/KadiBgh) [![email](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](mailto:abdelkaderbabaghayou@gmail.com) 
-
 # 💻 Tech Stack:
 ![HTML5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
 ![CSS3](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
@@ -28,14 +26,10 @@ My name is Abdelkader BABAGHAYOU (Or Kadi), im a Fullstack Software Engineer.<br
 ![Nginx](https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg) 
 ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=BghAek&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=BghAek&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=BghAek&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
