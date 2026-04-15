@@ -1,35 +1,18 @@
-### Hi there 👋
-
-My name is Abdelkader BABAGHAYOU (Or Kadi), im a Fullstack Software Engineer.
-<h3>What to know about me :</h3>
-<p>
--🎓 I have a Master degree in "Networks and distributed systems" <br>
--🎓 I have a Bachelor degree in "Computer Science and Informations systems" <br>
--🌱 I'm currently a freelancer working with technologies like Node.js, React, Express, SQL, NoSQL, tailwindCSS, Prisma... <br>
-</p>
-<h3>Skills :</h3>
-<p align="left">
-
-  <img title="html5" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50" height="50"/>
-  <img title="css3" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" width="50" height="50"/>
-  <img title="tailwind" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/>
-  <img title="NodeJs" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50" height="50"/>
-  <img title="TypeScript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="50" height="50"/>
-  <img title="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50"/>
-  <img title="expressjs" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="50" height="50"/>
-  <img title="nestjs" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="50" height="50"/>
-  <img title="mysql" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="50" height="50"/>
-  <img title="postgresql" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="90" height="50"/>
-  <img title="docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50" height="50"/>
-  <img title="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/>
-  <img title="linux" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50" height="50"/>
- </P>
+# 💫 About Me:
+My name is Abdelkader BABAGHAYOU (Or Kadi), im a Fullstack Software Engineer.<br><br>What to know about me :<br>-🎓 I have a Master degree in "Networks and distributed systems"<br>-🎓 I have a Bachelor degree in "Computer Science and Informations systems"<br>-🌱 I'm currently a freelancer working with technologies like Node.js, React, Express, SQL, NoSQL, tailwindCSS, Prisma...
 
 
-<h2> Contact me  :</h2>
-    <p float="center">
-       <a href="https://www.linkedin.com/in/aekbgh/"><img alt="Linkedin profile"  title="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"   width="100" height="50" /></a>
-      <a href="abdelkaderbabaghayou@gmail.com"><img alt="Gmail"  title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"   width="100" height="50" /></a>
-       <a href="https://www.instagram.com/aekbgh/"><img title="Instgrame" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"   width="100" height="50" /></a>
-      <a href="https://www.facebook.com/Aekdigoxin/"><img title="Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg"   width="100" height="50" /></a>
-    </p>
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=BghAek&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=BghAek&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=BghAek&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=BghAek&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
