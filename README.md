@@ -14,8 +14,6 @@
 - 🎓 **Bachelor's degree** in *Computer Science and Information Systems*
 - 🌱 Currently a **Freelancer** working with *Node.js, NestJS, React, Express, SQL, NoSQL, TailwindCSS, Prisma*, and more!
 
----
-
 ## 💻 Skills & Technologies
 
 <div align="center">
@@ -34,8 +32,6 @@
 
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -50,7 +46,6 @@
 
 </div>
 
----
 
 ## ✍️ Random Dev Quote
 
@@ -59,8 +54,6 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
 
 </div>
-
----
 
 ## 🌐 Connect With Me
 
