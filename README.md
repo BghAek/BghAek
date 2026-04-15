@@ -1,14 +1,20 @@
 <div align="center">
 
-# 💫 Hi there, I'm Abdelkader (Kadi)
+# 💫 Hi there, I'm Abdelkader (Kadi) 👋
 
-## Fullstack Software Engineer 👋
+### Fullstack Software Engineer
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
 - 🎓 **Master's degree** in *Networks and Distributed Systems*
 - 🎓 **Bachelor's degree** in *Computer Science and Information Systems*
 - 🌱 Currently a **Freelancer** working with *Node.js, NestJS, React, Express, SQL, NoSQL, TailwindCSS, Prisma*, and more!
+
+---
 
 ## 💻 Skills & Technologies
 
@@ -28,6 +34,8 @@
 
 </div>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -42,6 +50,7 @@
 
 </div>
 
+---
 
 ## ✍️ Random Dev Quote
 
@@ -51,6 +60,8 @@
 
 </div>
 
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -58,4 +69,3 @@
 <a href="https://facebook.com/Aekdigoxin" target="_blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" width="45" height="45"/></a><a href="https://instagram.com/aekbgh" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="45" height="45"/></a><a href="https://x.com/KadiBgh" target="_blank"><img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" width="45" height="45"/></a><a href="https://linkedin.com/in/aekbgh" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="45" height="45"/></a><a href="mailto:abdelkaderbabaghayou@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="45" height="45"/></a>
 
 </div>
-
