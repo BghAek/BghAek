@@ -22,8 +22,6 @@ Frontend:
 ![Next.js](https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg)
 ![TailwindCSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
 
-
-
 Backend:
 
 ![Node.js](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
@@ -31,18 +29,12 @@ Backend:
 ![Nest.js](https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg)
 ![GraphQL](https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg)
 
-
-
 Databases:
 
 ![Postgres](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)
 ![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
 ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)
 ![Prisma](https://res.cloudinary.com/dvl3awhnd/image/upload/v1776291667/icons8-prisma-orm-50_royasd.png) 
-
-
-
-
 
 DevOps & Tools:
 
@@ -53,10 +45,7 @@ DevOps & Tools:
 ![Nginx](https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg) 
 ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 
-
-
 Design:
-
 ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) 
 
 
@@ -72,3 +61,9 @@ Design:
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+## 🌐 Socials:
+[![Facebook](https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg)](https://facebook.com/Aekdigoxin) [![Instagram](https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg)](https://instagram.com/aekbgh) [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://linkedin.com/in/aekbgh) [![X](https://www.vectorlogo.zone/logos/x/x-icon.svg)](https://x.com/KadiBgh) [![email](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](mailto:abdelkaderbabaghayou@gmail.com) 
+
+
