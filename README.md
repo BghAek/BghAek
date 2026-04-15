@@ -13,22 +13,55 @@
 - 🎓 **Bachelor's degree** in *Computer Science and Information Systems*
 - 🌱 Currently a **Freelancer** working with *Node.js, NestJS, React, Express, SQL, NoSQL, TailwindCSS, Prisma*, and more!
 
-
-## 💻 Skills & Technologies
-
 <div align="center">
 
 ### 🖥️ Frontend & Languages
 
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="45" height="45"/>
+<table>
+<tr>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="45"/><br/>HTML5</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="45"/><br/>CSS3</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="45"/><br/>JavaScript</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="45"/><br/>TypeScript</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="45"/><br/>React</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="45"/><br/>Vite</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="45"/><br/>Next.js</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/><br/>Tailwind</td>
+</tr>
+</table>
+
+---
 
 ### ⚙️ Backend & Databases
 
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="Nest.js" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="45" height="45"/><img src="https://res.cloudinary.com/dvl3awhnd/image/upload/v1776291667/icons8-prisma-orm-50_royasd.png" alt="Prisma" width="45" height="45"/>
+<table>
+<tr>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="45"/><br/>Node.js</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="45"/><br/>Express</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="45"/><br/>NestJS</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="45"/><br/>GraphQL</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="45"/><br/>PostgreSQL</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="45"/><br/>MySQL</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="45"/><br/>MongoDB</td>
+<td align="center"><img src="https://res.cloudinary.com/dvl3awhnd/image/upload/v1776291667/icons8-prisma-orm-50_royasd.png" width="45"/><br/>Prisma</td>
+</tr>
+</table>
+
+---
 
 ### 🛠️ DevOps, Tools & Design
 
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45"/>
+<table>
+<tr>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="45"/><br/>Linux</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45"/><br/>Docker</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45"/><br/>GCP</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="45"/><br/>Apache</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="45"/><br/>Nginx</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/><br/>Git</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/><br/>Figma</td>
+</tr>
+</table>
 
 </div>
 
