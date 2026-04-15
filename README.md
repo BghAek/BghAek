@@ -9,11 +9,8 @@ My name is Abdelkader BABAGHAYOU (Or Kadi), im a Fullstack Software Engineer.<br
 Languages:
 
 ![HTML5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
-
 ![CSS3](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
-
 ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
-
 ![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
 
 
@@ -21,11 +18,8 @@ Languages:
 Frontend:
 
 ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg) 
-
 ![Vite](https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg) 
-
 ![Next.js](https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg)
-
 ![TailwindCSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
 
 
@@ -33,11 +27,8 @@ Frontend:
 Backend:
 
 ![Node.js](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
-
 ![Express.js](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)
-
 ![Nest.js](https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg)
-
 ![GraphQL](https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg)
 
 
@@ -45,11 +36,8 @@ Backend:
 Databases:
 
 ![Postgres](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)
-
 ![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
-
 ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)
-
 ![Prisma](https://res.cloudinary.com/dvl3awhnd/image/upload/v1776291667/icons8-prisma-orm-50_royasd.png) 
 
 
@@ -59,15 +47,10 @@ Databases:
 DevOps & Tools:
 
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
-
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
-
 ![Google Cloud](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)
-
 ![Apache](https://www.vectorlogo.zone/logos/apache/apache-icon.svg) 
-
 ![Nginx](https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg) 
-
 ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 
 
