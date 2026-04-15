@@ -24,35 +24,15 @@
 
 ### 🖥️ Frontend & Languages
 
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="45" height="45"/>
 
 ### ⚙️ Backend & Databases
 
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="Nest.js" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="45" height="45"/>
-<img src="https://res.cloudinary.com/dvl3awhnd/image/upload/v1776291667/icons8-prisma-orm-50_royasd.png" alt="Prisma" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="Nest.js" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="45" height="45"/><img src="https://res.cloudinary.com/dvl3awhnd/image/upload/v1776291667/icons8-prisma-orm-50_royasd.png" alt="Prisma" width="45" height="45"/>
 
 ### 🛠️ DevOps, Tools & Design
 
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45"/>
 
 </div>
 
@@ -88,11 +68,7 @@
 
 <div align="center">
 
-[![Facebook](https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg)](https://facebook.com/Aekdigoxin)
-[![Instagram](https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg)](https://instagram.com/aekbgh)
-[![X](https://www.vectorlogo.zone/logos/x/x-icon.svg)](https://x.com/KadiBgh)
-[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://linkedin.com/in/aekbgh)
-[![Gmail](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](mailto:abdelkaderbabaghayou@gmail.com)
+<a href="https://facebook.com/Aekdigoxin" target="_blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" width="45" height="45"/></a><a href="https://instagram.com/aekbgh" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="45" height="45"/></a><a href="https://x.com/KadiBgh" target="_blank"><img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" width="45" height="45"/></a><a href="https://linkedin.com/in/aekbgh" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="45" height="45"/></a><a href="mailto:abdelkaderbabaghayou@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="45" height="45"/></a>
 
 </div>
 
