@@ -2,7 +2,7 @@
 My name is Abdelkader BABAGHAYOU (Or Kadi), im a Fullstack Software Engineer.<br><br>What to know about me :<br>-🎓 I have a Master degree in "Networks and distributed systems"<br>-🎓 I have a Bachelor degree in "Computer Science and Informations systems"<br>-🌱 I'm currently a freelancer working with technologies like Node.js, Nestjs, React, Express, SQL, NoSQL, tailwindCSS, Prisma...<br><br>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aekdigoxin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aekbgh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aekbgh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KadiBgh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelkaderbabaghayou@gmail.com) 
+[![Facebook](https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg)](https://facebook.com/Aekdigoxin) [![Instagram](https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg)](https://instagram.com/aekbgh) [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://linkedin.com/in/aekbgh) [![X](https://www.vectorlogo.zone/logos/x/x-icon.svg)](https://x.com/KadiBgh) [![email](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](mailto:abdelkaderbabaghayou@gmail.com) 
 
 # 💻 Tech Stack:
 ![HTML5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
@@ -34,16 +34,8 @@ My name is Abdelkader BABAGHAYOU (Or Kadi), im a Fullstack Software Engineer.<br
 ![](https://streak-stats.demolab.com/?user=BghAek&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=BghAek&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BghAek&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BghAek&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=BghAek&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
