@@ -6,7 +6,36 @@ My name is Abdelkader BABAGHAYOU (Or Kadi), im a Fullstack Software Engineer.<br
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aekdigoxin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aekbgh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aekbgh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KadiBgh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelkaderbabaghayou@gmail.com) 
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![HTML5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
+![CSS3](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
+![TailwindCSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+
+![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
+![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
+
+![Node.js](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
+![Express.js](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)
+![Nest.js](https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg)
+![GraphQL](https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg)
+
+![Postgres](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)
+![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
+![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)
+![Prisma](https://cdn.brandfetch.io/idBBE3_R9e/idI_xi9A1U.svg?c=1dxbfHSJFAPEGdCLU4o5B) 
+
+![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg) 
+![Vite](https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg) 
+![Next.js](https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg)
+
+![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
+![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
+![Google Cloud](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)
+![Apache](https://www.vectorlogo.zone/logos/apache/apache-icon.svg) 
+![Nginx](https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg) 
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) 
+ 
+![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=BghAek&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=BghAek&theme=monokai&hide_border=false)<br/>
