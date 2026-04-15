@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 - 🎓 **Master's degree** in *Networks and Distributed Systems*
