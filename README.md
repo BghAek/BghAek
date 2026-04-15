@@ -1,6 +1,8 @@
 <div align="center">
 
-# 💫 Hi there, I'm Abdelkader (Kadi) Im a Fullstack Software Engineer 👋
+# 💫 Hi there, I'm Abdelkader (Kadi)
+
+## Fullstack Software Engineer 👋
 
 ## 👨‍💻 About Me
 
