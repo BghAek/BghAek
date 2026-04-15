@@ -22,17 +22,37 @@
 
 <div align="center">
   <h3>Frontend & Languages</h3>
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="45" height="45" style="margin: 5px;" /> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="45" height="45" style="margin: 5px;" /> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="45" height="45" style="margin: 5px;" /> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="45" height="45" style="margin: 5px;" /> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="45" height="45" style="margin: 5px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="45" height="45" style="margin: 5px;" /> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="45" height="45" style="margin: 5px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="45" height="45" style="margin: 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="45" height="45" style="margin: 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="45" height="45" style="margin: 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="45" height="45" style="margin: 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="45" height="45" style="margin: 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="45" height="45" style="margin: 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="45" height="45" style="margin: 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="45" height="45" style="margin: 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="45" height="45" style="margin: 5px;" />
 </div>
 
 <div align="center">
   <h3>Backend & Databases</h3>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="45" height="45" style="margin: 5px;" /> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="45" height="45" style="margin: 5px;" /> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="Nest.js" width="45" height="45" style="margin: 5px;" /> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="45" height="45" style="margin: 5px;" /> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgres" width="45" height="45" style="margin: 5px;" /> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="45" style="margin: 5px;" /> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="45" height="45" style="margin: 5px;" /> <img src="https://res.cloudinary.com/dvl3awhnd/image/upload/v1776291667/icons8-prisma-orm-50_royasd.png" alt="Prisma" width="45" height="45" style="margin: 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="45" height="45" style="margin: 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="45" height="45" style="margin: 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="Nest.js" width="45" height="45" style="margin: 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="45" height="45" style="margin: 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgres" width="45" height="45" style="margin: 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="45" style="margin: 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="45" height="45" style="margin: 5px;" />
+  <img src="https://res.cloudinary.com/dvl3awhnd/image/upload/v1776291667/icons8-prisma-orm-50_royasd.png" alt="Prisma" width="45" height="45" style="margin: 5px;" />
 </div>
 
 <div align="center">
   <h3>DevOps, Tools & Design</h3>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="45" height="45" style="margin: 5px;" /> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="45" height="45" style="margin: 5px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="45" height="45" style="margin: 5px;" /> <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache" width="45" height="45" style="margin: 5px;" /> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="45" height="45" style="margin: 5px;" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45" style="margin: 5px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45" style="margin: 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="45" height="45" style="margin: 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="45" height="45" style="margin: 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="45" height="45" style="margin: 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache" width="45" height="45" style="margin: 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="45" height="45" style="margin: 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45" style="margin: 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45" style="margin: 5px;" />
 </div>
 
 <br/>
@@ -42,7 +62,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=BghAek&bg_color=1E112A&title_color=D8B4FE&text_color=ffffff&icon_color=C084FC&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <img src="https://streak-stats.demolab.com/?user=BghAek&background=1E112A&ring=C084FC&fire=D8B4FE&currStreakLabel=D8B4FE&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api?username=BghAek&bg_color=1E112A&title_color=D8B4FE&text_color=ffffff&icon_color=C084FC&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=BghAek&background=1E112A&ring=C084FC&fire=D8B4FE&currStreakLabel=D8B4FE&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
