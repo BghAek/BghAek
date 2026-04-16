@@ -74,10 +74,6 @@
 &nbsp;
 <img src="https://streak-stats.demolab.com/?user=BghAek&background=1E112A&ring=C084FC&fire=D8B4FE&currStreakLabel=D8B4FE&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BghAek&layout=compact&bg_color=1E112A&title_color=D8B4FE&text_color=ffffff&hide_border=true" />
-
 
 
 </div>
