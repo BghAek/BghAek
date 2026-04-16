@@ -9,9 +9,9 @@
 
 ## 👨‍💻 About Me :
 
-- 🎓 **Master's degree** in *Networks and Distributed Systems*
-- 🎓 **Bachelor's degree** in *Computer Science and Information Systems*
-- 🌱 Currently a **Freelancer** working with *Node.js, NestJS, React, Express, SQL, NoSQL, TailwindCSS, Prisma*, and more!
+- 🎓 **Master's degree** in *Computer Science specialized in Networks and Distributed Systems*
+- 🎓 **Bachelor's degree** in *Computer Science and Information's Systems*
+- 🌱 Currently a **Freelancer** working with *Node.js, NestJS, React, Next.js, Express, SQL, NoSQL, TailwindCSS, Prisma*, and more!
 
 ## 💻 Skills & Technologies :
 
