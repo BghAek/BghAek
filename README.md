@@ -95,11 +95,11 @@
 
 <table align="center">
 <tr align="center">
-<td align="center"><a style="text-decoration: none;" href="https://facebook.com/Aekdigoxin" target="_blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" width="35" height="35"/>Facebook</a></td>
-<td align="center"><a href="https://instagram.com/aekbgh" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="35" height="35"/>Instagram</a></td>
-<td align="center"><a href="https://x.com/KadiBgh" target="_blank"><img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" width="35" height="35"/>X</a></td>
-<td align="center"><a href="https://linkedin.com/in/aekbgh" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="35" height="35"/>LinkedIn</a></td>
-<td align="center"><a href="mailto:abdelkaderbabaghayou@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="35" height="35"/>Email</a></td>
+<td align="center"><a href="https://facebook.com/Aekdigoxin" target="_blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" width="35" height="35"/></a>Facebook</td>
+<td align="center"><a href="https://instagram.com/aekbgh" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="35" height="35"/></a>Instagram</td>
+<td align="center"><a href="https://x.com/KadiBgh" target="_blank"><img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" width="35" height="35"/></a>X</td>
+<td align="center"><a href="https://linkedin.com/in/aekbgh" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="35" height="35"/></a>LinkedIn</td>
+<td align="center"><a href="mailto:abdelkaderbabaghayou@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="35" height="35"/></a>Email</td>
 </tr>
 </table>
 
