@@ -12,7 +12,7 @@
 - 🎓 **Bachelor's degree** in *Computer Science and Information Systems*
 - 🌱 Currently a **Freelancer** working with *Node.js, NestJS, React, Express, SQL, NoSQL, TailwindCSS, Prisma*, and more!
 
-## 💻 Skills & Technologies
+## 💻 Skills & Technologies :
 
 <div align="center">
 
@@ -65,7 +65,7 @@
 </div>
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats :
 
 <div align="center">
 
