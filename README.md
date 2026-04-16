@@ -81,6 +81,8 @@
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
+<img src="https://streak-stats.demolab.com/?user=BghAek&background=1E112A&ring=C084FC&fire=D8B4FE&currStreakLabel=D8B4FE&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" style="display:inline-block;margin:5px;" />
+
 
 </div>
 
