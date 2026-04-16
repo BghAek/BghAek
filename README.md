@@ -7,7 +7,7 @@
 
 
 
-# 👨‍💻 About Me :
+## 👨‍💻 About Me :
 
 - 🎓 **Master's degree** in *Networks and Distributed Systems*
 - 🎓 **Bachelor's degree** in *Computer Science and Information Systems*
