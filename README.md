@@ -1,7 +1,7 @@
 <div align="center">
 
-# 💫 Hi there, I'm Abdelkader (Kadi) 👋
-<h3>FullStack Software Engineer</h3>
+# 💫 Hi there, I'm Abdelkader (Kadi) <h3>FullStack Software Engineer</h3> 👋
+
 
 </div>
 
