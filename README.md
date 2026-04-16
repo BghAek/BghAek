@@ -94,6 +94,16 @@
 
 <div align="center">
 
-<a href="https://facebook.com/Aekdigoxin" target="_blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" width="35" height="35"/></a><a href="https://instagram.com/aekbgh" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="35" height="35"/></a><a href="https://x.com/KadiBgh" target="_blank"><img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" width="35" height="35"/></a><a href="https://linkedin.com/in/aekbgh" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="35" height="35"/></a><a href="mailto:abdelkaderbabaghayou@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="35" height="35"/></a>
+
+<table align="center">
+<tr align="center">
+<td align="center"><a href="https://facebook.com/Aekdigoxin" target="_blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" width="35" height="35"/></a></td>
+<td align="center"><a href="https://instagram.com/aekbgh" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="35" height="35"/></a></td>
+<td align="center"><a href="https://x.com/KadiBgh" target="_blank"><img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" width="35" height="35"/></a></td>
+<td align="center"><a href="https://linkedin.com/in/aekbgh" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="35" height="35"/></a></td>
+<td align="center"><a href="mailto:abdelkaderbabaghayou@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="35" height="35"/></a></td>
+</tr>
+</table>
 
 </div>
+
