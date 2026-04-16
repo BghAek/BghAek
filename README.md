@@ -6,7 +6,7 @@
 </div>
 
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me :
 
 - 🎓 **Master's degree** in *Networks and Distributed Systems*
 - 🎓 **Bachelor's degree** in *Computer Science and Information Systems*
@@ -75,7 +75,7 @@
 </div>
 
 
-## ✍️ Random Dev Quote
+## ✍️ Random Dev Quote :
 
 <div align="center">
 
@@ -84,7 +84,7 @@
 </div>
 
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me :
 
 <div align="center">
 
