@@ -13,6 +13,8 @@
 - 🎓 **Bachelor's degree** in *Computer Science and Information Systems*
 - 🌱 Currently a **Freelancer** working with *Node.js, NestJS, React, Express, SQL, NoSQL, TailwindCSS, Prisma*, and more!
 
+## 💻 Skills & Technologies
+
 <div align="center">
 
 ### 🖥️ Frontend & Languages
@@ -68,13 +70,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=BghAek&bg_color=1E112A&title_color=D8B4FE&text_color=ffffff&icon_color=C084FC&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 &nbsp;
 <img src="https://streak-stats.demolab.com/?user=BghAek&background=1E112A&ring=C084FC&fire=D8B4FE&currStreakLabel=D8B4FE&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=BghAek&bg_color=1E112A&title_color=D8B4FE&text_color=ffffff&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
 </div>
 
