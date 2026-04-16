@@ -2,7 +2,7 @@
 
 # 💫 Hi there, I'm Abdelkader (Kadi) 👋
 
-### Fullstack Software Engineer
+### Full-Stack Software Engineer
 
 </div>
 
